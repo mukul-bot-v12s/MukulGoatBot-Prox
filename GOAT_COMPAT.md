@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/juwel-logo.svg" alt="Mirai + Goat — JUWEL — MR JUWEL BOT" width="520"/>
+  <img src="assets/juwel-logo.svg" alt="Mirai + Goat — MUKUL — محمد مقول ميا BOT" width="520"/>
 </p>
 
 <h1 align="center">🤖+🐐 Mirai-Goat-Mix — Hybrid guide</h1>
